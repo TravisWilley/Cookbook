@@ -1,0 +1,12 @@
+.menuBar {
+  background-color: rgb(157, 195, 229);
+  width: 100vw;
+  height: 3rem;
+}
+
+li {
+  display: inline;
+  margin: 10rem;
+  font-size: x-large;
+  margin-top: 2rem;
+}
